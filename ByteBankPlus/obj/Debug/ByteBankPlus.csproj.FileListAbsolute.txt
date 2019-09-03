@@ -1,0 +1,7 @@
+C:\Workspace\c#\ByteBankPlus\ByteBankPlus\bin\Debug\ByteBankPlus.exe.config
+C:\Workspace\c#\ByteBankPlus\ByteBankPlus\bin\Debug\ByteBankPlus.exe
+C:\Workspace\c#\ByteBankPlus\ByteBankPlus\bin\Debug\ByteBankPlus.pdb
+C:\Workspace\c#\ByteBankPlus\ByteBankPlus\obj\Debug\ByteBankPlus.csprojAssemblyReference.cache
+C:\Workspace\c#\ByteBankPlus\ByteBankPlus\obj\Debug\ByteBankPlus.csproj.CoreCompileInputs.cache
+C:\Workspace\c#\ByteBankPlus\ByteBankPlus\obj\Debug\ByteBankPlus.exe
+C:\Workspace\c#\ByteBankPlus\ByteBankPlus\obj\Debug\ByteBankPlus.pdb
